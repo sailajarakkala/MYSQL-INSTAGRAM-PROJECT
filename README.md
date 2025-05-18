@@ -1,3 +1,4 @@
+# MYSQL-INSTAGRAM-PROJECT
 📸 Instagram Clone – SQL-Based Backend Simulation
 This project is a SQL-based Instagram Clone that replicates the core backend functionality of a social media platform using MySQL. The primary focus is on designing a robust and normalized relational database system to support user interactions, photo sharing, and engagement analytics. It also includes advanced SQL queries to extract valuable insights and detect suspicious or bot-like behavior.
 
